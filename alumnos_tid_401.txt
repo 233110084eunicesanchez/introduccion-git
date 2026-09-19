@@ -1,2 +1,7 @@
 MATRICULA,NOMBRE,APELLIDO_PATERNO,APELLIDO_MATERNO,GRUPO,ASIGNATURA
 405043615,Rubén,Ramírez,Gómez,IDS901,Introducción a la Ciencia de Datos
+
+
+253110017,Valeria,Roque,Ubaldo,TID401,Desarrollo de Software Multiplataforma
+
+
