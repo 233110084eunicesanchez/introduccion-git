@@ -1,0 +1,6 @@
+MATRICULA: 243110106
+NOMBRE: NOE
+APELLIDO_PATERNO: PINEDA
+APELLIDO_MATERNO: BUENDIA
+CARRERA: Ingeniería en Tecnologías de la Información e Innovación Digital
+GRUPO: IND701
