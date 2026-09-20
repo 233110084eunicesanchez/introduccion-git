@@ -1,2 +1,24 @@
 MATRICULA,NOMBRE,APELLIDO_PATERNO,APELLIDO_MATERNO,GRUPO,ASIGNATURA
 405043615,Rubén,Ramírez,Gómez,IDS901,Introducción a la Ciencia de Datos
+233110246,Alexis Leonardo,Hernández,Ramirez,IDS901,Desarrollo web integral
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
