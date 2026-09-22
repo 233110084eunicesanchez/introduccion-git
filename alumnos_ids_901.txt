@@ -1,6 +1,5 @@
-MATRICULA 213110184
-NOMBRE Francisco Javier 
-APELLIDO_PATERNO Hernandez
-APELLIDO_MATERNO Hernandez 
-GRUPO IDS901
-Desarrollo web integral
+MATRICULA,NOMBRE,APELLIDO_PATERNO,APELLIDO_MATERNO,GRUPO,ASIGNATURA
+405043615,Rubén,Ramírez,Gómez,IDS901,Introducción a la Ciencia de Datos
+213110184,Francisco Javier,Hernandez,Hernandez,IDS901,Desarrollo Web Integral
+223110283,Diego,Hernández,Herrera,IDS901,DESARROLLO WEB INTEGRAL
+233110287,Irving Yael,Juarez,De Leon, IDS901,Desarrollo Web Integral
