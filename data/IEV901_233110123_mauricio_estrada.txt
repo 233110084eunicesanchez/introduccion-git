@@ -1,0 +1,6 @@
+MATRICULA: 233110123
+NOMBRE: Mauricio
+APELLIDO_PATERNO: Estrada
+APELLIDO_MATERNO: Ramirez
+CARRERA: Entornos virtuales y negocios digitales 
+GRUPO: IEV 901
