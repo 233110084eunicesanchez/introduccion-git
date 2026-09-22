@@ -1,0 +1,6 @@
+MATRICULA: 233110051
+NOMBRE: Joshua
+APELLIDO_PATERNO: Torres
+APELLIDO_MATERNO: Castelan
+CARRERA: Desarrollo de Software Multiplataforma
+GRUPO: IDS901

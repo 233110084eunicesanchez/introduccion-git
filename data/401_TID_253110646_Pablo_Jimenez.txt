@@ -1,0 +1,6 @@
+MATRICULA: 253110646
+NOMBRE: Pablo Jesus
+APELLIDO_PATERNO: Jimenez
+APELLIDO_MATERNO: Lopez
+CARRERA: Desarrollo de Software Multiplataforma
+GRUPO: 401 TID
