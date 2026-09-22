@@ -1,2 +1,4 @@
 MATRICULA,NOMBRE,APELLIDO_PATERNO,APELLIDO_MATERNO,GRUPO,ASIGNATURA
 405043615,Rubén,Ramírez,Gómez,IDS901,Introducción a la Ciencia de Datos
+253110012,GaelSalvador,Alvarado,Villegas,TID401,Aplicaciones Web
+253110050,Ana Karen,Beltran,Montañez,TID401,Aplicaciones Web
