@@ -1,3 +1,5 @@
 MATRICULA,NOMBRE,APELLIDO_PATERNO,APELLIDO_MATERNO,GRUPO,ASIGNATURA
 405043615,Rubén,Ramírez,Gómez,IDS901,Introducción a la Ciencia de Datos
 203110350,Silverio,Perez,Cesar,IDS901,Desarrollo web Integral
+223110283,Diego,Hernández,Herrera,IDS901,DESARROLLO WEB INTEGRAL
+233110287,Irving Yael,Juarez,De Leon, IDS901,Desarrollo Web Integral
