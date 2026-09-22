@@ -1,0 +1,6 @@
+MATRICULA: 253110017
+NOMBRE: Valeria
+APELLIDO_PATERNO: Roque
+APELLIDO_MATERNO: Ubaldo
+CARRERA: T.S.U en Desarrollo de software multiplataforma 
+GRUPO: TID 401
