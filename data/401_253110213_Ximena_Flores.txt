@@ -1,0 +1,6 @@
+MATRICULA: 253110213
+NOMBRE: Ximena
+APELLIDO_PATERNO: Flores
+APELLIDO_MATERNO: Soria
+CARRERA: Tecnologías de la información e innovación digital
+GRUPO: 401 
