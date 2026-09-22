@@ -1,0 +1,7 @@
+MATRICULA: 233110044
+NOMBRE: Angel Yael
+APELLIDO_PATERNO: Ortiz
+APELLIDO_MATERNO: Santiago
+CARRERA: desarrollo de software multiplataforma
+GRUPO: IDS901
+
