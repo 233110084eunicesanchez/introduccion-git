@@ -1,4 +1,3 @@
 MATRICULA,NOMBRE,APELLIDO_PATERNO,APELLIDO_MATERNO,GRUPO,ASIGNATURA
 405043615,Rubén,Ramírez,Gómez,IDS901,Introducción a la Ciencia de Datos
 253110534,Joshua Shadahi,Belmontes,Flores,401,Introducción a Git
-
