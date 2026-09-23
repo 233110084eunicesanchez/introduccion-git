@@ -13,4 +13,6 @@ MATRICULA,NOMBRE,APELLIDO_PATERNO,APELLIDO_MATERNO,GRUPO,ASIGNATURA
 233110287,Irving Yael,Juarez,De Leon,IDS901,Desarrollo Web Integral
 233110025,Dayron,Oswaldo,Romero,Jimenez,IDS901,Introducción a la ciencia de Datos
 213110184,Francisco Javier,Hernandez,Hernandez,IDS901,Desarrollo Web Integral
+233110246,Alexis Leonardo,Hernandez,Ramirez,IDS901,Desarrollo Web Integral
+233110167,Sandra Pao Yu,Flores,Zuñiga,IDS901,Desarrollo Web Integral
 233110084,Eunice,Sanchez,Pacheco,IDS901,Desarrollo web integral
