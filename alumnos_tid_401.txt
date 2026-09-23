@@ -1,2 +1,15 @@
 MATRICULA,NOMBRE,APELLIDO_PATERNO,APELLIDO_MATERNO,GRUPO,ASIGNATURA
-405043615,Rubén,Ramírez,Gómez,IDS901,Introducción a la Ciencia de Datos
+405043615,Rubén,Ramírez,Gómez,IDS901,Introducción a la Ciencia de Datos   
+253110017,Valeria,Roque,Ubaldo,TID401,Desarrollo de Software Multiplataforma
+253110534,Joshua Shadahi,Belmontes,Flores,401,Introducción a Git
+253110061,GLENNYS EILEEN,LOPEZ,LEMUS,TID-401,APLICACIONES WEB
+253110012,GaelSalvador,Alvarado,Villegas,TID401,Aplicaciones Web
+253110050,Ana Karen,Beltran,Montañez,TID401,Aplicaciones Web
+253110213,Ximena,Flores,Soria,TID401,Aplicaciones Web
+25311028,Xavier,Salinas,Cruz,TID401,Desarrollo de Software Multiplataforma
+253110601,Regina,Cruz,Álvarez,TID_401,Aplicaciones Web
+253110036,Danitza,Acosta,Zamora,4ATID,Aplicaciones web
+253110366,Javier,Sanchez,Salinas,TID401,Aplicaciones Web
+253110178,ALONDRA PAOLA,QUEZADA,MEJIA,TID-401,APLICACIONES WEB,
+253110573,Joseph Ivan,Radamontes,Peniche,TID401,Aplicaciones Web
+253110139,Cristofer,Gomez,Aguilar,TID401,Desarrollo de aplicaciones web

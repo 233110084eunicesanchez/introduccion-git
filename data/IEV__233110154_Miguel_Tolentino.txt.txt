@@ -1,0 +1,6 @@
+MATRICULA: 233110154
+NOMBRE: Miguel Angel
+APELLIDO_PATERNO: Tolentino
+APELLIDO_MATERNO: Laguna
+CARRERA: Ingeneria en Etornos Virtuales y Negocios Digitales
+GRUPO: IEV
