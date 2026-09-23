@@ -1,4 +1,3 @@
-
 MATRICULA,NOMBRE,APELLIDO_PATERNO,APELLIDO_MATERNO,GRUPO,ASIGNATURA
 405043615,Rubén,Ramírez,Gómez,IDS901,Introducción a la Ciencia de Datos  
 253110017,Valeria,Roque,Ubaldo,TID401,Desarrollo de Software Multiplataforma
@@ -10,3 +9,4 @@ MATRICULA,NOMBRE,APELLIDO_PATERNO,APELLIDO_MATERNO,GRUPO,ASIGNATURA
 25311028,Xavier,Salinas,Cruz,TID401,Desarrollo de Software Multiplataforma
 253110601,Regina,Cruz,Álvarez,TID_401,Aplicaciones Web
 253110036,Danitza,Acosta,Zamora,4ATID,Aplicaciones web
+253110366,Javier,Sanchez,Salinas,TID401,Aplicaciones Web
